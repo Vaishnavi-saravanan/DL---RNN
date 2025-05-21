@@ -29,9 +29,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: SHYAM S
+### Name: VAISHNAVI S
 
-### Register Number: 212223240156
+### Register Number: 212222230165
 
 ```python
 import numpy as np
